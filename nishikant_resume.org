@@ -1,0 +1,225 @@
+#+title: Nishikant Jagdish Sevalkar
+#+options: author:nil email:t creator:nil toc:nil num:nil title:t from:t to:t mobile:t address:t
+#+date: \today
+#+email: nishikant.sevalkar@gmail.com | +91 9405183224
+#+address: A302, DFA Apartment, Waghjai Nagar, Ambegaon Khurd, Katraj, Pune - 411046 Maharashtra, India
+#+linkedin: nishikant-sevalkar-a90156a
+#+LATEX_HEADER: \pdfgentounicode=1
+#+LATEX_HEADER: \usepackage{titling} \usepackage[utf8]{inputenc} \usepackage{textcomp} \input{glyphtounicode}
+#+LATEX_HEADER: \setlength{\droptitle}{-1in}
+#+LATEX_HEADER: \usepackage[top=1in, bottom=1in]{geometry}
+#+LATEX_HEADER: \pretitle{\begin{center}\LARGE}
+#+LATEX_HEADER: \posttitle{\par\end{center}\vspace{-2em}} % Space after title
+#+LATEX_HEADER: \preauthor{\begin{center}\large}
+#+LATEX_HEADER: \postauthor{\par\end{center}\vspace{-2em}} % Space after author
+#+LATEX_HEADER: \usepackage[compact]{titlesec}
+#+LATEX_HEADER: \usepackage{titlesec}
+#+LATEX_HEADER: \titlespacing*{\section}{0pt}{12pt}{4pt}
+#+LATEX_HEADER: \titlespacing*{\subsection}{0pt}{8pt}{2pt} \DeclareUnicodeCharacter{20B9}{Rs.}
+#+LATEX_HEADER: \usepackage{enumitem}
+--------
+* Professional Summary
+- Technology and Platform Engineering Leader with 19+ years of experience building and scaling cloud, infrastructure, and reliability functions across enterprise and high-growth environments. Currently serving as Associate Director of DevOps, leading a cross-functional organization of 30+ engineers spanning DevOps, SRE, DBA, security, compliance, IT, and product support, with direct reporting to CEO and CTO leadership.
+
+- Accountable for infrastructure and IT operations budgets, cloud strategy, and enterprise modernization initiatives. Led large-scale cloud migration programs, implemented multi-account governance models, and institutionalized FinOps practices to improve cost visibility and operational efficiency.
+
+- Spearheaded compliance and audit programs, driving successful certification and regulatory adherence efforts. Negotiated and structured strategic cloud contracts across group entities, aligning technology investments with long-term business objectives while strengthening vendor partnerships.
+
+- A pragmatic executive who bridges strategic vision with hands-on technical depth, building resilient, scalable platforms that enable product growth and organizational agility.
+
+-----
+
+* Core Competencies
+** Technology & Platform Leadership
+- Engineering Organization Design, DevOps, DBA & SRE Strategy, Cross-Functional Team Leadership, Executive Stakeholder Engagement
+
+** Cloud & Infrastructure Strategy
+- Cloud Architecture & Migration, Multi-Account Governance, Hybrid Cloud Environments (AWS, Azure, GCP), Infrastructure Modernization
+
+** Financial & Vendor Management
+- Infrastructure Budget Ownership, P&L Alignment, FinOps Implementation, Cloud Contract Negotiation & Vendor Management
+
+** Reliability & Operational Excellence
+- SRE Practices, Observability Strategy, Incident Management, Capacity Planning, Business Continuity & Disaster Recovery
+
+** Security & Compliance Governance
+- DevSecOps Integration, Audit & Regulatory Programs (SOC 2, ISO 27001, GDPR, HIPAA, DPDPA), Risk & Controls Management
+
+** Automation & Platform Engineering
+- CI/CD Transformation, Infrastructure as Code (Terraform, CloudFormation), Kubernetes & Container Orchestration
+
+-----
+
+* Technical Expertise / Skills
+- *Cloud Platforms*: AWS, Azure, GCP
+- *Containerization & Orchestration*: Kubernetes, Docker, Helm
+- *Infrastructure as Code*: Terraform, CloudFormation, Ansible
+- *CI/CD & DevOps Tooling*: Jenkins, GitLab CI, ArgoCD
+- *Observability*: Prometheus, Grafana, ELK Stack, Datadog
+- *Databases*: PostgreSQL, MySQL, Cassandra, Redis
+- *Data warehouse*: Azure Synapse, Azure Data lake, Redshift
+- *Programming & Scripting*: Python, Go, Java, Shell
+
+-----
+
+* Experience
+** Associate Director – DevOps
+:PROPERTIES:
+:LOCATION: Pune, Remote
+:END:
+#+LATEX: \small
+Sept 2023 - Present
+#+LATEX: \normalsize
+*** Monster.com
+:PROPERTIES:
+:FROM: Sept 2023
+:TO: Present
+:END:
+Online recruitment and HR technology platform serving enterprise and SMB customers across multiple geographies.
+
+- Delivered ~60% reduction in annual cloud spend (₹15M → ₹6M) while improving system performance and reliability, enabling the organization to achieve more with significantly lower infrastructure cost.
+
+- Led strategic Azure-to-AWS migration across Monster and affiliated group entities, renegotiating enterprise cloud commitments from ₹54 Cr to ₹30 Cr and aligning cloud strategy with long-term financial and scalability goals.
+
+- Reduced platform latency by ~30%, improving customer experience and contributing to higher CSAT scores through architectural modernization, event-driven communication patterns, and elimination of data inconsistencies via a unified source-of-truth model.
+
+- Enabled innovation initiatives, including AI experimentation and modernization programs, by leveraging cost-efficient compute strategies such as AWS Spot Instances with automated disruption handling using event-driven remediation workflows.
+
+- Implemented DNS-based indirection, database proxy layers, and service decoupling strategies to eliminate maintenance-related downtime and improve overall service availability.
+
+- Built artifact-driven CI/CD pipelines with embedded compliance workflows, reducing time-to-production while operationalizing audit controls and governance processes.
+
+- Lead and scale a 30+ member cross-functional organization spanning DevOps, SOC, DBA, compliance, IT, and product support; partner directly with CEO and executive leadership on infrastructure strategy, financial oversight, and risk management.
+
+-----
+
+** Engineering Manager
+:PROPERTIES:
+:LOCATION: Mumbai, India, Remote
+:END:
+#+LATEX: \small
+June 2022 to Sept 2023
+#+LATEX: \normalsize
+*** RebelFoods
+:PROPERTIES:
+:FROM: June 2022
+:TO: Sept 2023
+:END:
+
+India’s largest cloud kitchen platform (~₹1,617 Cr revenue) operating 450+ kitchens globally, supporting logistics-intensive, high-transaction SaaS systems.
+
+- Reduced AWS infrastructure spend from ~₹1 Cr/month to ~₹55 L/month (~45% reduction) within 6 months during a market downturn, optimizing architecture, eliminating systemic waste, and strategically leveraging Reserved Instances and Savings Plans without compromising performance.
+
+- Improved production reliability by reducing weekly alerts from 100+ to fewer than 3, significantly lowering operational fatigue, surfacing genuinely critical issues, and improving customer experience across order workflows.
+
+- Stabilized the enterprise data warehouse (AWS Redshift), resolving recurring business-impacting instability and avoiding costly migration initiatives by improving query performance, workload prioritization, monitoring, and change governance.
+
+- Institutionalized structured release management and CI/CD governance across engineering, introducing semantic versioning, gated deployments, and rollback mechanisms to reduce release risk and improve recovery confidence.
+
+- Rebuilt cross-functional trust between Development and DevOps by implementing Jira-based workflow visibility, structured intake processes, and capacity transparency for a 10-member DevOps & DBA organization.
+
+- Led a 10-member DevOps and Database team, balancing cost optimization,  reliability engineering, infrastructure modernization, and 24x7 operational accountability in a high-growth environment.
+
+** Senior Principal Engineer
+:PROPERTIES:
+:LOCATION: Pune, India
+:END:
+#+LATEX: \small
+Dec 2018 to May 2022
+#+LATEX: \normalsize
+*** ConnectWise
+:PROPERTIES:
+:FROM: Dec 2018
+:TO: May 2022
+:END:
+Global SaaS provider of IT management and automation solutions (~$590M revenue), serving MSPs and enterprise customers across multiple geographies.
+
+- Scope: Led a 15-member platform engineering team responsible for cloud migration, DevOps transformation, CI/CD standardization, and infrastructure automation across legacy and microservices platforms.
+
+- Owned and executed the migration of a legacy Microsoft-based monolithic platform from colocation (Boston) to AWS, defining migration strategy, secure hybrid connectivity, and phased execution while aligning architecture with long-term cloud adoption goals.
+
+- Re-architected enterprise CI/CD by consolidating distributed Jenkins freestyle jobs into a centralized, Kubernetes-based pipeline model with Git as the single source of truth, enabling fully automated infrastructure provisioning and application deployment through Infrastructure as Code.
+
+- Designed and implemented a self-service microservices enablement framework for the company’s next-generation platform, allowing development teams to provision complete cloud environments — including infrastructure, networking, and deployment — through a single automated pipeline.
+
+- Introduced containerized lower-environment consolidation using Kubernetes, significantly improving infrastructure utilization and enabling scalable, cost-efficient development and integration environments.
+
+- Led enterprise-wide adoption and cloud-native deployment of ReportPortal
+  (11-microservice architecture), establishing a centralized test automation
+  reporting platform to standardize quality visibility across product lines.
+-----
+
+** Director of DevOps
+:PROPERTIES:
+:LOCATION: Pune, India
+:END:
+#+LATEX: \small
+July 2010 to Sept 2018 And June 2006 to May 2008
+#+LATEX: \normalsize
+*** QuestionPro
+:PROPERTIES:
+:FROM: July 2010
+:TO: Sept 2018
+:FROM: June 2006
+:TO: May 2008
+:END:
+
+Global survey and experience management platform serving customers across 100+ countries.
+
+Progressed from early infrastructure engineer to Director of DevOps, building and scaling the company’s cloud, infrastructure, and platform engineering capabilities over a 12-year tenure. Reported directly to executive leadership in a high-growth environment.
+
+Led a 6–10 member infrastructure and platform team with full ownership of production reliability, cloud operations, DBA, security, compliance, and global system architecture.
+
+- Designed and executed a hybrid cloud strategy extending colocation infrastructure into Azure and AWS, enabling elastic scaling while preserving cost-efficient core infrastructure.
+
+- Architected AWS GovCloud environments to support FedRAMP initiatives, strengthening security posture and regulatory readiness for enterprise and government clients.
+
+- Established new colocation regions in Europe and Australia, designing global authentication, cross-region replication, and distributed monitoring to support international data residency requirements.
+
+- Owned database architecture and lifecycle management across 300+ servers, executing major MySQL upgrades with near-zero downtime through phased rollouts and rollback planning.
+
+- Implemented centralized logging and observability using the Elastic stack, significantly improving operational visibility and enabling executive reporting through structured dashboards and data warehousing.
+
+- Introduced CI/CD automation integrating testing, static analysis, and deployment pipelines, reducing release friction and improving production stability.
+
+- Led platform modernization initiatives including containerized enterprise deployments, multi-language enablement, and consolidation of diverged product codebases into a unified architecture.
+-------
+
+** System Engineer
+:PROPERTIES:
+:LOCATION: Hyderabad, India
+:END:
+#+LATEX: \small
+May 2008 to June 2010
+#+LATEX: \normalsize
+*** Amazon
+:PROPERTIES:
+:FROM: May 2008
+:TO: June 2010
+:END:
+
+Part of the Website Platform team responsible for the foundational infrastructure powering large-scale e-commerce properties, including amazon.com and other high-traffic retail platforms.
+
+- Served on a frontline production engineering team responsible for platform stability, incident response, and operational reliability across high-traffic web infrastructure.
+
+- Contributed to the migration from Amazon’s legacy PERL-based “Grupa” platform to the next-generation Java-based “Santana” platform, supporting performance benchmarking, large-scale load testing, and phased production rollout.
+
+- Participated in the migration and validation of ~10,000 servers to the new platform, ensuring performance parity, rollback readiness, and production stability during transition.
+
+- Gained early exposure to distributed systems design, database scaling strategies, and emerging cloud-native patterns, shaping a long-term focus on scalable architecture and reliability engineering.
+-----
+
+* Education
+
+** University of Pune
+:PROPERTIES:
+:LOCATION: Pune, Maharashtra, India
+:END:
+*** Bachelor of Engineering (B.E.), Computer Engineering
+:PROPERTIES:
+:TO:       2006
+:END:
+*** Final Year Project conducted at Indian Institute of Technology Bombay
+:PROPERTIES:
+:TO:       2006
+:END:
