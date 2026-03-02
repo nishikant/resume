@@ -2,7 +2,7 @@
 #+options: author:nil email:t creator:nil toc:nil num:nil title:t from:t to:t mobile:t address:t
 #+date: \today
 #+email: nishikant.sevalkar@gmail.com | +91 9405183224
-#+address: A302, DFA Apartment, Waghjai Nagar, Ambegaon Khurd, Katraj, Pune - 411046 Maharashtra, India
+#+address: Pune, Maharashtra, India
 #+linkedin: nishikant-sevalkar-a90156a
 #+LATEX_HEADER: \pdfgentounicode=1
 #+LATEX_HEADER: \usepackage{titling} \usepackage[utf8]{inputenc} \usepackage{textcomp} \input{glyphtounicode}
@@ -13,7 +13,6 @@
 #+LATEX_HEADER: \preauthor{\begin{center}\large}
 #+LATEX_HEADER: \postauthor{\par\end{center}\vspace{-2em}} % Space after author
 #+LATEX_HEADER: \usepackage[compact]{titlesec}
-#+LATEX_HEADER: \usepackage{titlesec}
 #+LATEX_HEADER: \titlespacing*{\section}{0pt}{12pt}{4pt}
 #+LATEX_HEADER: \titlespacing*{\subsection}{0pt}{8pt}{2pt} \DeclareUnicodeCharacter{20B9}{Rs.}
 #+LATEX_HEADER: \usepackage{enumitem}
@@ -64,17 +63,10 @@
 
 * Experience
 ** Associate Director – DevOps
-:PROPERTIES:
-:LOCATION: Pune, Remote
-:END:
 #+LATEX: \small
-Sept 2023 - Present
+*Monster.com | Pune | Sep 2023 - Present*
 #+LATEX: \normalsize
-*** Monster.com
-:PROPERTIES:
-:FROM: Sept 2023
-:TO: Present
-:END:
+
 Online recruitment and HR technology platform serving enterprise and SMB customers across multiple geographies.
 
 - Delivered ~60% reduction in annual cloud spend (₹15M → ₹6M) while improving system performance and reliability, enabling the organization to achieve more with significantly lower infrastructure cost.
@@ -94,17 +86,9 @@ Online recruitment and HR technology platform serving enterprise and SMB custome
 -----
 
 ** Engineering Manager
-:PROPERTIES:
-:LOCATION: Mumbai, India, Remote
-:END:
 #+LATEX: \small
-June 2022 to Sept 2023
+*RebelFoods | Mumbai | June 2022 - Sep 2023*
 #+LATEX: \normalsize
-*** RebelFoods
-:PROPERTIES:
-:FROM: June 2022
-:TO: Sept 2023
-:END:
 
 India’s largest cloud kitchen platform (~₹1,617 Cr revenue) operating 450+ kitchens globally, supporting logistics-intensive, high-transaction SaaS systems.
 
@@ -121,17 +105,10 @@ India’s largest cloud kitchen platform (~₹1,617 Cr revenue) operating 450+ k
 - Led a 10-member DevOps and Database team, balancing cost optimization,  reliability engineering, infrastructure modernization, and 24x7 operational accountability in a high-growth environment.
 
 ** Senior Principal Engineer
-:PROPERTIES:
-:LOCATION: Pune, India
-:END:
 #+LATEX: \small
-Dec 2018 to May 2022
+*ConnectWise | Pune | Dec 2018 - May 2022*
 #+LATEX: \normalsize
-*** ConnectWise
-:PROPERTIES:
-:FROM: Dec 2018
-:TO: May 2022
-:END:
+
 Global SaaS provider of IT management and automation solutions (~$590M revenue), serving MSPs and enterprise customers across multiple geographies.
 
 - Scope: Led a 15-member platform engineering team responsible for cloud migration, DevOps transformation, CI/CD standardization, and infrastructure automation across legacy and microservices platforms.
@@ -150,23 +127,13 @@ Global SaaS provider of IT management and automation solutions (~$590M revenue),
 -----
 
 ** Director of DevOps
-:PROPERTIES:
-:LOCATION: Pune, India
-:END:
 #+LATEX: \small
-July 2010 to Sept 2018 And June 2006 to May 2008
+*QuestionPro | Pune | July 2010 - Sep 2018*
 #+LATEX: \normalsize
-*** QuestionPro
-:PROPERTIES:
-:FROM: July 2010
-:TO: Sept 2018
-:FROM: June 2006
-:TO: May 2008
-:END:
 
 Global survey and experience management platform serving customers across 100+ countries.
 
-Progressed from early infrastructure engineer to Director of DevOps, building and scaling the company’s cloud, infrastructure, and platform engineering capabilities over a 12-year tenure. Reported directly to executive leadership in a high-growth environment.
+Returned to QuestionPro after tenure at Amazon and progressed to Director of DevOps, leading the evolution of the company’s cloud, infrastructure, and platform engineering capabilities over a 12-year association.
 
 Led a 6–10 member infrastructure and platform team with full ownership of production reliability, cloud operations, DBA, security, compliance, and global system architecture.
 
@@ -186,17 +153,9 @@ Led a 6–10 member infrastructure and platform team with full ownership of prod
 -------
 
 ** System Engineer
-:PROPERTIES:
-:LOCATION: Hyderabad, India
-:END:
 #+LATEX: \small
-May 2008 to June 2010
+*Amazon | Hyderabad | May 2008 - June 2010*
 #+LATEX: \normalsize
-*** Amazon
-:PROPERTIES:
-:FROM: May 2008
-:TO: June 2010
-:END:
 
 Part of the Website Platform team responsible for the foundational infrastructure powering large-scale e-commerce properties, including amazon.com and other high-traffic retail platforms.
 
@@ -208,6 +167,21 @@ Part of the Website Platform team responsible for the foundational infrastructur
 
 - Gained early exposure to distributed systems design, database scaling strategies, and emerging cloud-native patterns, shaping a long-term focus on scalable architecture and reliability engineering.
 -----
+
+** Software Engineer
+#+LATEX: \small
+*QuestionPro | Nashik | June 2006 - May 2008*
+#+LATEX: \normalsize
+
+Global survey and experience management platform serving customers across 100+ countries.
+
+Contributed to foundational infrastructure scaling initiatives during early growth phase.
+
+- Supported production infrastructure and database management across global deployments.
+- Contributed to early CI/CD automation and monitoring standardization efforts.
+- Built internal reporting and data warehouse solutions using MySQL to support business analytics.
+-------
+
 
 * Education
 
