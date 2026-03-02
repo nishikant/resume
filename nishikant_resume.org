@@ -4,8 +4,7 @@
 #+email: nishikant.sevalkar@gmail.com | +91 9405183224
 #+address: Pune, Maharashtra, India
 #+linkedin: nishikant-sevalkar-a90156a
-#+LATEX_HEADER: \pdfgentounicode=1
-#+LATEX_HEADER: \usepackage{titling} \usepackage[utf8]{inputenc} \usepackage{textcomp} \input{glyphtounicode}
+#+LATEX_HEADER: \usepackage{titling} \usepackage[utf8]{inputenc} \usepackage{textcomp}
 #+LATEX_HEADER: \setlength{\droptitle}{-1in}
 #+LATEX_HEADER: \usepackage[top=1in, bottom=1in]{geometry}
 #+LATEX_HEADER: \pretitle{\begin{center}\LARGE}
@@ -14,9 +13,14 @@
 #+LATEX_HEADER: \postauthor{\par\end{center}\vspace{-2em}} % Space after author
 #+LATEX_HEADER: \usepackage[compact]{titlesec}
 #+LATEX_HEADER: \titlespacing*{\section}{0pt}{12pt}{4pt}
-#+LATEX_HEADER: \titlespacing*{\subsection}{0pt}{8pt}{2pt} \DeclareUnicodeCharacter{20B9}{Rs.}
+#+LATEX_HEADER: \titlespacing*{\subsection}{0pt}{8pt}{1pt}
 #+LATEX_HEADER: \usepackage{enumitem}
+#+BEGIN_COMMENT
+LATEX_HEADER: \input{glyphtounicode}
+LATEX_HEADER: \pdfgentounicode=1
+#+END_COMMENT
 --------
+
 * Professional Summary
 - Technology and Platform Engineering Leader with 19+ years of experience building and scaling cloud, infrastructure, and reliability functions across enterprise and high-growth environments. Currently serving as Associate Director of DevOps, leading a cross-functional organization of 30+ engineers spanning DevOps, SRE, DBA, security, compliance, IT, and product support, with direct reporting to CEO and CTO leadership.
 
@@ -58,7 +62,6 @@
 - *Databases*: PostgreSQL, MySQL, Cassandra, Redis
 - *Data warehouse*: Azure Synapse, Azure Data lake, Redshift
 - *Programming & Scripting*: Python, Go, Java, Shell
-
 -----
 
 * Experience
@@ -70,17 +73,11 @@
 Online recruitment and HR technology platform serving enterprise and SMB customers across multiple geographies.
 
 - Delivered ~60% reduction in annual cloud spend (₹15M → ₹6M) while improving system performance and reliability, enabling the organization to achieve more with significantly lower infrastructure cost.
-
 - Led strategic Azure-to-AWS migration across Monster and affiliated group entities, renegotiating enterprise cloud commitments from ₹54 Cr to ₹30 Cr and aligning cloud strategy with long-term financial and scalability goals.
-
 - Reduced platform latency by ~30%, improving customer experience and contributing to higher CSAT scores through architectural modernization, event-driven communication patterns, and elimination of data inconsistencies via a unified source-of-truth model.
-
 - Enabled innovation initiatives, including AI experimentation and modernization programs, by leveraging cost-efficient compute strategies such as AWS Spot Instances with automated disruption handling using event-driven remediation workflows.
-
 - Implemented DNS-based indirection, database proxy layers, and service decoupling strategies to eliminate maintenance-related downtime and improve overall service availability.
-
 - Built artifact-driven CI/CD pipelines with embedded compliance workflows, reducing time-to-production while operationalizing audit controls and governance processes.
-
 - Lead and scale a 30+ member cross-functional organization spanning DevOps, SOC, DBA, compliance, IT, and product support; partner directly with CEO and executive leadership on infrastructure strategy, financial oversight, and risk management.
 
 -----
@@ -103,7 +100,7 @@ India’s largest cloud kitchen platform (~₹1,617 Cr revenue) operating 450+ k
 - Rebuilt cross-functional trust between Development and DevOps by implementing Jira-based workflow visibility, structured intake processes, and capacity transparency for a 10-member DevOps & DBA organization.
 
 - Led a 10-member DevOps and Database team, balancing cost optimization,  reliability engineering, infrastructure modernization, and 24x7 operational accountability in a high-growth environment.
-
+-----
 ** Senior Principal Engineer
 #+LATEX: \small
 *ConnectWise | Pune | Dec 2018 - May 2022*
@@ -112,15 +109,10 @@ India’s largest cloud kitchen platform (~₹1,617 Cr revenue) operating 450+ k
 Global SaaS provider of IT management and automation solutions (~$590M revenue), serving MSPs and enterprise customers across multiple geographies.
 
 - Scope: Led a 15-member platform engineering team responsible for cloud migration, DevOps transformation, CI/CD standardization, and infrastructure automation across legacy and microservices platforms.
-
 - Owned and executed the migration of a legacy Microsoft-based monolithic platform from colocation (Boston) to AWS, defining migration strategy, secure hybrid connectivity, and phased execution while aligning architecture with long-term cloud adoption goals.
-
 - Re-architected enterprise CI/CD by consolidating distributed Jenkins freestyle jobs into a centralized, Kubernetes-based pipeline model with Git as the single source of truth, enabling fully automated infrastructure provisioning and application deployment through Infrastructure as Code.
-
 - Designed and implemented a self-service microservices enablement framework for the company’s next-generation platform, allowing development teams to provision complete cloud environments — including infrastructure, networking, and deployment — through a single automated pipeline.
-
 - Introduced containerized lower-environment consolidation using Kubernetes, significantly improving infrastructure utilization and enabling scalable, cost-efficient development and integration environments.
-
 - Led enterprise-wide adoption and cloud-native deployment of ReportPortal
   (11-microservice architecture), establishing a centralized test automation
   reporting platform to standardize quality visibility across product lines.
@@ -173,9 +165,7 @@ Part of the Website Platform team responsible for the foundational infrastructur
 *QuestionPro | Nashik | June 2006 - May 2008*
 #+LATEX: \normalsize
 
-Global survey and experience management platform serving customers across 100+ countries.
-
-Contributed to foundational infrastructure scaling initiatives during early growth phase.
+Global survey and experience management platform serving customers across 100+ countries. Contributed to foundational infrastructure scaling initiatives during early growth phase.
 
 - Supported production infrastructure and database management across global deployments.
 - Contributed to early CI/CD automation and monitoring standardization efforts.
