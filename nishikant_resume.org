@@ -113,9 +113,7 @@ Global SaaS provider of IT management and automation solutions (~$590M revenue),
 - Re-architected enterprise CI/CD by consolidating distributed Jenkins freestyle jobs into a centralized, Kubernetes-based pipeline model with Git as the single source of truth, enabling fully automated infrastructure provisioning and application deployment through Infrastructure as Code.
 - Designed and implemented a self-service microservices enablement framework for the company’s next-generation platform, allowing development teams to provision complete cloud environments — including infrastructure, networking, and deployment — through a single automated pipeline.
 - Introduced containerized lower-environment consolidation using Kubernetes, significantly improving infrastructure utilization and enabling scalable, cost-efficient development and integration environments.
-- Led enterprise-wide adoption and cloud-native deployment of ReportPortal
-  (11-microservice architecture), establishing a centralized test automation
-  reporting platform to standardize quality visibility across product lines.
+- Led enterprise-wide adoption and cloud-native deployment of ReportPortal  (11-microservice architecture), establishing a centralized test automation reporting platform to standardize quality visibility across product lines.
 -----
 
 ** Director of DevOps
